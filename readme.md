@@ -3,11 +3,6 @@
 ###[Download the 3.3.1 combined & minified javascript file (along with all other required files) here](https://github.com/futurice/file-uploader/wiki/Releases)###
 
 <br/>
-## Authors ##
-Actively developed by [Futurice Ltd](http://www.futurice.com/)
-Created by Andrew Valums and Ray Nicholus.
-
-<br/>
 ###Table of Contents###
 - [Summary](#summary)
 - [Features](#features)
@@ -32,8 +27,8 @@ Created by Andrew Valums and Ray Nicholus.
 
 <br/>
 ## Authors ##
-Actively developed by [Ray Nicholus](http://lnkd.in/Nkhx2C).     
-Created by Andrew Valums.
+Actively developed by [Futurice Ltd](http://www.futurice.com/).
+Created by Andrew Valums and Ray Nicholus.
 
 
 <br/>

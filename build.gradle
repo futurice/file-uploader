@@ -1,5 +1,5 @@
 def version = "3.3.1"
-def filename = "fineuploader"
+def filename = "fileuploader"
 def srcDir = 'client'
 def jsSrcDir = "$srcDir/js"
 
@@ -18,7 +18,7 @@ def coreFiles = ["${jsSrcDir}/header.js",
                  "${jsSrcDir}/handler.form.js",
                  "${jsSrcDir}/handler.xhr.js"]
 
-def cssFiles = ["$srcDir/fineuploader.css"]
+def cssFiles = ["$srcDir/fileuploader.css"]
 
 def imageFiles = ["$srcDir/loading.gif",
                   "$srcDir/processing.gif"]

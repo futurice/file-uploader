@@ -23,14 +23,14 @@
     };
 
     dataStore = function(key, val) {
-        var data = $el.data('fineuploader');
+        var data = $el.data('fileuploader');
 
         if (val) {
             if (data === undefined) {
                 data = {};
             }
             data[key] = val;
-            $el.data('fineuploader', data);
+            $el.data('fileuploader', data);
         }
         else {
             if (data === undefined) {
